@@ -27,6 +27,7 @@ It comes with **two variants** that support git, python virtual environments and
 - Run `exec zsh` to update your shell with the new configuration.
 
 **Optional (recommended):** The following plugins are **not required**, but enabling them helps ensure the prompt renders correctly. Without these plugins, some elements (such as the Python virtual environment) may appear on the first line and break the prompt layout.
+
 Modify the `~/.zshrc` file by adding the following plugins:
 
 ```bash
